@@ -27,3 +27,5 @@ Para acessar labs após o fim do curso, é necessário:
 - [Escopos padrão em compute engine](https://cloud.google.com/compute/docs/access/service-accounts#accesscopesiam)
 - [gcloud compute ssh (atenção ao parametro tunnel-through-iap](https://cloud.google.com/sdk/gcloud/reference/compute/ssh)
 - [Descrição do encaminhamento TCP feito pelo IAP](https://cloud.google.com/iap/docs/tcp-forwarding-overview)
+- [OS login, para permitir acesso de usuário ou admin em VMs Linux, baseado em privilégios IAM](https://cloud.google.com/compute/docs/oslogin/set-up-oslogin#gcloud)
+- 
