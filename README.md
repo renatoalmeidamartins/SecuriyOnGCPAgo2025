@@ -41,3 +41,4 @@ Para acessar labs após o fim do curso, é necessário:
 - [Documento de política usado para carga de arquivos por meio do form HTML](https://cloud.google.com/storage/docs/authentication/signatures#policy-document)
 - [Evitar uso de ACLs em Cloud Storage](https://cloud.google.com/storage/docs/access-control/lists)
 - [O pequeno Bobby Tabelinhas](https://xkcd.com/327/)
+- [Descrição do ataque log4shell](https://news.sophos.com/en-us/2021/12/12/log4shell-hell-anatomy-of-an-exploit-outbreak/)
