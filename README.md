@@ -30,3 +30,7 @@ Para acessar labs após o fim do curso, é necessário:
 - [OS login, para permitir acesso de usuário ou admin em VMs Linux, baseado em privilégios IAM](https://cloud.google.com/compute/docs/oslogin/set-up-oslogin#gcloud)
 - [Shielded VM](https://cloud.google.com/compute/shielded-vm/docs/shielded-vm)
 - [VMs confidenciais](https://cloud.google.com/confidential-computing/confidential-vm/docs/confidential-vm-overview)
+- [Preços do serviço de certificados](https://cloud.google.com/certificate-authority-service/pricing)
+- [FIPS 140-2](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-2.pdf)
+- [IAP (e outras formas de conectividade a VMs privadas) no Architecture Center](https://cloud.google.com/architecture/building-internet-connectivity-for-private-vms?hl=en)
+- [Architecture center, com boas práticas no desenho de solucoes](https://cloud.google.com/architecture?hl=en)
