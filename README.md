@@ -35,3 +35,4 @@ Para acessar labs após o fim do curso, é necessário:
 - [IAP (e outras formas de conectividade a VMs privadas) no Architecture Center](https://cloud.google.com/architecture/building-internet-connectivity-for-private-vms?hl=en)
 - [Architecture center, com boas práticas no desenho de solucoes](https://cloud.google.com/architecture?hl=en)
 - [Definindo log de bucket via CLI](https://cloud.google.com/storage/docs/access-logs#command-line)
+- [Geração de URL assinada para Cloud Storage via CLI](https://cloud.google.com/storage/docs/access-control/signing-urls-with-helpers)
