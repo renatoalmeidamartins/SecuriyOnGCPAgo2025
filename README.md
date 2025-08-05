@@ -42,3 +42,4 @@ Para acessar labs após o fim do curso, é necessário:
 - [Evitar uso de ACLs em Cloud Storage](https://cloud.google.com/storage/docs/access-control/lists)
 - [O pequeno Bobby Tabelinhas](https://xkcd.com/327/)
 - [Descrição do ataque log4shell](https://news.sophos.com/en-us/2021/12/12/log4shell-hell-anatomy-of-an-exploit-outbreak/)
+- [Arquitetura de zero trust, conforme definido pelo NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf)
