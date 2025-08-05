@@ -37,3 +37,5 @@ Para acessar labs após o fim do curso, é necessário:
 - [Definindo log de bucket via CLI](https://cloud.google.com/storage/docs/access-logs#command-line)
 - [Geração de URL assinada para Cloud Storage via CLI](https://cloud.google.com/storage/docs/access-control/signing-urls-with-helpers)
 - [Uso de gcloud preferido ao invés do gsutil legado para trabalhar via linha de comando com Cloud Storage](https://cloud.google.com/storage/docs/gsutil)
+- [Carga de documentos em um bucket usando form HTML](https://cloud.google.com/storage/docs/xml-api/post-object-forms#html)
+- [Documento de política usado para carga de arquivos por meio do form HTML](https://cloud.google.com/storage/docs/authentication/signatures#policy-document)
