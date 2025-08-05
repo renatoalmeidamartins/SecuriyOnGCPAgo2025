@@ -51,3 +51,6 @@ Para acessar labs após o fim do curso, é necessário:
 - [Escopo de métricas, com projetos para "agregação" de métricas](https://cloud.google.com/monitoring/settings)
 - [Métodos de instalação do OpsAgent](https://cloud.google.com/monitoring/agent/ops-agent/install-index)
 - [OpsAgent para aplicações de terceiros](https://cloud.google.com/monitoring/agent/ops-agent/third-party)
+- [Instrumentação para coleta de traces](https://cloud.google.com/trace/docs/setup)
+- [Métricas baseadas em log](https://cloud.google.com/logging/docs/logs-based-metrics)
+- 
