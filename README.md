@@ -28,4 +28,5 @@ Para acessar labs após o fim do curso, é necessário:
 - [gcloud compute ssh (atenção ao parametro tunnel-through-iap](https://cloud.google.com/sdk/gcloud/reference/compute/ssh)
 - [Descrição do encaminhamento TCP feito pelo IAP](https://cloud.google.com/iap/docs/tcp-forwarding-overview)
 - [OS login, para permitir acesso de usuário ou admin em VMs Linux, baseado em privilégios IAM](https://cloud.google.com/compute/docs/oslogin/set-up-oslogin#gcloud)
-- 
+- [Shielded VM](https://cloud.google.com/compute/shielded-vm/docs/shielded-vm)
+- [VMs confidenciais](https://cloud.google.com/confidential-computing/confidential-vm/docs/confidential-vm-overview)
