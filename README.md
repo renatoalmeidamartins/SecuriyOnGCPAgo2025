@@ -36,3 +36,4 @@ Para acessar labs após o fim do curso, é necessário:
 - [Architecture center, com boas práticas no desenho de solucoes](https://cloud.google.com/architecture?hl=en)
 - [Definindo log de bucket via CLI](https://cloud.google.com/storage/docs/access-logs#command-line)
 - [Geração de URL assinada para Cloud Storage via CLI](https://cloud.google.com/storage/docs/access-control/signing-urls-with-helpers)
+- [Uso de gcloud preferido ao invés do gsutil legado para trabalhar via linha de comando com Cloud Storage](https://cloud.google.com/storage/docs/gsutil)
