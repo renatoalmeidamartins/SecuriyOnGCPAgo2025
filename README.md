@@ -1,5 +1,8 @@
 # SecuriyOnGCPAgo2025
 
+## Meus dados de contato
+- renatoalmeidamartins@gmail.com
+- https://www.linkedin.com/in/renatodealmeidamartins/
 
 ## Acesso ao lab após o curso
 Para acessar labs após o fim do curso, é necessário:
