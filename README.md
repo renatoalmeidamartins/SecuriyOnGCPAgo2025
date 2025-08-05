@@ -48,3 +48,4 @@ Para acessar labs após o fim do curso, é necessário:
  - [Configuração de acesso sensível ao contexto](https://cloud.google.com/beyondcorp-enterprise/docs/securing-console-and-apis)
  - [Controle de serviço de VPC](https://cloud.google.com/vpc-service-controls/docs/overview)
 - [Criação de agendamento para rotação de segredos no Secret manager](https://cloud.google.com/secret-manager/docs/secret-rotation)
+- [Escopo de métricas, com projetos para "agregação" de métricas](https://cloud.google.com/monitoring/settings)
