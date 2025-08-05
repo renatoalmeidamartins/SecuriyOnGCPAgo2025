@@ -49,3 +49,5 @@ Para acessar labs após o fim do curso, é necessário:
  - [Controle de serviço de VPC](https://cloud.google.com/vpc-service-controls/docs/overview)
 - [Criação de agendamento para rotação de segredos no Secret manager](https://cloud.google.com/secret-manager/docs/secret-rotation)
 - [Escopo de métricas, com projetos para "agregação" de métricas](https://cloud.google.com/monitoring/settings)
+- [Métodos de instalação do OpsAgent](https://cloud.google.com/monitoring/agent/ops-agent/install-index)
+- [OpsAgent para aplicações de terceiros](https://cloud.google.com/monitoring/agent/ops-agent/third-party)
