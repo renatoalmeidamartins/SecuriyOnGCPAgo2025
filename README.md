@@ -40,3 +40,4 @@ Para acessar labs após o fim do curso, é necessário:
 - [Carga de documentos em um bucket usando form HTML](https://cloud.google.com/storage/docs/xml-api/post-object-forms#html)
 - [Documento de política usado para carga de arquivos por meio do form HTML](https://cloud.google.com/storage/docs/authentication/signatures#policy-document)
 - [Evitar uso de ACLs em Cloud Storage](https://cloud.google.com/storage/docs/access-control/lists)
+- [O pequeno Bobby Tabelinhas](https://xkcd.com/327/)
