@@ -43,3 +43,7 @@ Para acessar labs após o fim do curso, é necessário:
 - [O pequeno Bobby Tabelinhas](https://xkcd.com/327/)
 - [Descrição do ataque log4shell](https://news.sophos.com/en-us/2021/12/12/log4shell-hell-anatomy-of-an-exploit-outbreak/)
 - [Arquitetura de zero trust, conforme definido pelo NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf)
+- BeyondCorp Enterprise:
+ - [Niveis de acesso](https://cloud.google.com/beyondcorp-enterprise/docs/define-access-policies)
+ - [Configuração de acesso sensível ao contexto](https://cloud.google.com/beyondcorp-enterprise/docs/securing-console-and-apis)
+ - [Controle de serviço de VPC](https://cloud.google.com/vpc-service-controls/docs/overview)
