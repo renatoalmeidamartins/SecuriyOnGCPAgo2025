@@ -21,7 +21,9 @@ Para acessar labs após o fim do curso, é necessário:
 - [Ameaças top 10 do OWASP](https://owasp.org/www-project-top-ten/)
 - [Threat dragon, para modelagem de ameaças](https://owasp.org/www-project-threat-dragon/)
 - [Federação de identidades](https://cloud.google.com/iam/docs/workload-identity-federation#pools)
-- 
-
+  
 
 ## Links dia 2
+- [Escopos padrão em compute engine](https://cloud.google.com/compute/docs/access/service-accounts#accesscopesiam)
+- [gcloud compute ssh (atenção ao parametro tunnel-through-iap](https://cloud.google.com/sdk/gcloud/reference/compute/ssh)
+- [Descrição do encaminhamento TCP feito pelo IAP](https://cloud.google.com/iap/docs/tcp-forwarding-overview)
