@@ -39,3 +39,4 @@ Para acessar labs após o fim do curso, é necessário:
 - [Uso de gcloud preferido ao invés do gsutil legado para trabalhar via linha de comando com Cloud Storage](https://cloud.google.com/storage/docs/gsutil)
 - [Carga de documentos em um bucket usando form HTML](https://cloud.google.com/storage/docs/xml-api/post-object-forms#html)
 - [Documento de política usado para carga de arquivos por meio do form HTML](https://cloud.google.com/storage/docs/authentication/signatures#policy-document)
+- [Evitar uso de ACLs em Cloud Storage](https://cloud.google.com/storage/docs/access-control/lists)
